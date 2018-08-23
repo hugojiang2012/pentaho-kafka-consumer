@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.war
+*.ear
+/target
+/TAGS
+
+# IntelliJ files
+.idea/
+*.iml
+
+.DS_Store
+
